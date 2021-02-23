@@ -52,6 +52,8 @@ for a in newwordlist1:
 print(newwordlist2)
 ```
 
+课程地址：https://aistudio.baidu.com/aistudio/course/introduce/7073
+[领航课程](https://aistudio.baidu.com/aistudio/course/introduce/7073)
 
 
 
